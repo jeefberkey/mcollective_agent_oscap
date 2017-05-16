@@ -1,0 +1,17 @@
+---
+mcollective_agent_oscap::config_name: oscap
+mcollective_agent_oscap::common_files:
+- mcollective_openscap_agent/lib/mcollective/agent/oscap.ddl
+mcollective_agent_oscap::common_directories: []
+mcollective_agent_oscap::server_files:
+- mcollective_openscap_agent/lib/mcollective/agent/oscap.rb
+- mcollective_openscap_agent/lib/mcollective/agent/oscap/util.rb
+- mcollective_openscap_agent/lib/mcollective/agent/oscap/scan.rb
+- mcollective_openscap_agent/lib/mcollective/agent/oscap/profiles.rb
+- mcollective_openscap_agent/lib/mcollective/agent/oscap/oval_checks.rb
+mcollective_agent_oscap::server_directories:
+- mcollective_openscap_agent/lib/mcollective/agent/oscap
+mcollective_agent_oscap::client_files:
+- mcollective_openscap_agent/lib/mcollective/application/oscap.rb
+mcollective_agent_oscap::client_directories: []
+

@@ -1,0 +1,20 @@
+{
+  "name": "choria-mcollective_agent_oscap",
+  "version": "0.0.1",
+  "author": "Onyx Point",
+  "summary": "Perform OpenSCAP scans. Defaults to the SCAP Security Guide (https://fedorahosted.org/scap-security-guide)",
+  "license": "ASL 2.0",
+  "source": "https://github.com/onyxpoint/mcollective-openscap-agent",
+  "project_page": "https://github.com/onyxpoint/mcollective-openscap-agent",
+  "issues_url": "https://github.com/onyxpoint/mcollective-openscap-agent/issues",
+  "dependencies": [
+    {"name":"choria/mcollective","version_requirement":">= 0.0.24 < 2.0.0"}
+  ],
+  "data_provider": "hiera",
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.5.0"
+    }
+  ]
+}

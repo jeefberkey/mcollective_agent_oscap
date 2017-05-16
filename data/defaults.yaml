@@ -1,0 +1,16 @@
+lookup_options:
+  mcollective_agent_oscap::gem_dependencies:
+    merge:
+      strategy: deep
+  mcollective_agent_oscap::package_dependencies:
+    merge:
+      strategy: deep
+  mcollective_agent_oscap::config:
+    merge:
+      strategy: deep
+  mcollective_agent_oscap::client_config:
+    merge:
+      strategy: deep
+  mcollective_agent_oscap::server_config:
+    merge:
+      strategy: deep

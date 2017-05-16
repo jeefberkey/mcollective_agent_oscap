@@ -1,0 +1,15 @@
+{
+  "README.md": "403e0958eff272ad6af398cd401b89eb",
+  "data/defaults.yaml": "553c76d25bc12eaa8ab75191840cb218",
+  "data/plugin.yaml": "7e639e6f4997a3ae46ef4331be91532a",
+  "files/mcollective/mcollective_openscap_agent/lib/mcollective/agent/oscap/oval_checks.rb": "aba7c14260acf65969b4562662d639b1",
+  "files/mcollective/mcollective_openscap_agent/lib/mcollective/agent/oscap/profiles.rb": "46c144324428e86700592606a58254a3",
+  "files/mcollective/mcollective_openscap_agent/lib/mcollective/agent/oscap/scan.rb": "7161eca991bbd2db3fe98d48b8bc4fe0",
+  "files/mcollective/mcollective_openscap_agent/lib/mcollective/agent/oscap/util.rb": "cb92e1fe5b4203a507fe74e240565b71",
+  "files/mcollective/mcollective_openscap_agent/lib/mcollective/agent/oscap.ddl": "505be6ea17ceb1c77183f6e66e340dd4",
+  "files/mcollective/mcollective_openscap_agent/lib/mcollective/agent/oscap.rb": "be53931dcc4aee904537fec46ad329cf",
+  "files/mcollective/mcollective_openscap_agent/lib/mcollective/application/oscap.rb": "686f27bf9e4e75bc190b866bdef9ba46",
+  "hiera.yaml": "3d31dfa7be184e008811f2ee66b361b3",
+  "manifests/init.pp": "ddf5ef14e1123b7ec4b055c35c21db3e",
+  "metadata.json": "d74ef1cb8390a2a2a92f9640828c486a"
+}
